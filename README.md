@@ -22,7 +22,7 @@ This Power BI dashboard visualizes key business performance metrics, helping ana
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Preview](path/to/your/image.png)  
+![Dashboard Preview](https://github.com/SvenFassaert/Power-BI-Project-Business-Data/blob/main/Dashboard%20Screenshot.png?raw=true)  
 *Interactive and insightful, this dashboard provides a clear overview of business performance.*  
 
 ---
